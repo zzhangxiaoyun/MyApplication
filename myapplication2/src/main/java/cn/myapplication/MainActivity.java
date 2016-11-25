@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         Animation operatingAnim = AnimationUtils.loadAnimation(this, R.anim.down);
         LinearInterpolator lin = new LinearInterpolator();
         operatingAnim.setInterpolator(lin);
