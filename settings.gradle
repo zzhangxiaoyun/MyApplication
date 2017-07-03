@@ -1,1 +1,1 @@
-include ':myapplication3', ':pic', ':myapplication2'
+include ':myapplication3', ':pic', ':myapplication2', ':myapplication4'
